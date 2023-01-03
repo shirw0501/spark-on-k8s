@@ -1,4 +1,5 @@
 docker build -t shirleywongclp/spark-example .
+
 docker push shirleywongclp/spark-example
 
 
